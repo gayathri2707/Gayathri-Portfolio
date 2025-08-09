@@ -17,13 +17,16 @@ A personal portfolio website built using HTML, CSS, and JavaScript to showcase m
 4. Fonts & Icons – Google Fonts, Font Awesome
 
 📸 Screenshots
+
 <img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/d8890050-abc0-4dcd-9b39-b252dbd17368" />
 <img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/e1641f6d-ea9f-4e51-a5a9-1cb16940c0d1" />
 
 🌐 Live Demo
+
 [View Portfolio Website](https://gayathri2707.github.io/Gayathri-Portfolio/)
 
 📬 Contact
-📧 [Email](thota.gayathri03@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/gayathri-thota-41744524a/)
-💻 [GitHub](https://github.com/gayathri2707)
+
+1.[Email](thota.gayathri03@gmail.com)
+2.[LinkedIn](https://www.linkedin.com/in/gayathri-thota-41744524a/)
+3.[GitHub](https://github.com/gayathri2707)
