@@ -26,7 +26,6 @@ A personal portfolio website built using HTML, CSS, and JavaScript to showcase m
 [View Portfolio Website](https://gayathri2707.github.io/Gayathri-Portfolio/)
 
 📬 Contact
-
-1.[Email](thota.gayathri03@gmail.com)
-2.[LinkedIn](https://www.linkedin.com/in/gayathri-thota-41744524a/)
-3.[GitHub](https://github.com/gayathri2707)
+1. Email - thota.gayathri03@gmail.com
+2. LinkedIn - https://www.linkedin.com/in/gayathri-thota-41744524a
+3. GitHub - https://github.com/gayathri2707
